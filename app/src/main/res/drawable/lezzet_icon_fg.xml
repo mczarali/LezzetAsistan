@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- İnce Çerçeve Halkası -->
+    <path
+        android:pathData="M54,24 A30,30 0 1,0 54,84 A30,30 0 1,0 54,24 Z"
+        android:strokeWidth="1.2"
+        android:strokeColor="#33FFF8F2" />
+
+    <!-- Servis Kapağı Tutacağı -->
+    <path
+        android:fillColor="#FFFFF8F2"
+        android:pathData="M54,35.3 A3.2,3.2 0 1,0 54,41.7 A3.2,3.2 0 1,0 54,35.3 Z" />
+
+    <!-- Servis Kapağı Kubbesi -->
+    <path
+        android:fillColor="#FFFFF8F2"
+        android:pathData="M32,64 C32,50 41.5,41.5 54,41.5 C66.5,41.5 76,50 76,64 Z" />
+
+    <!-- Kubbe İçi Parlama Çizgisi -->
+    <path
+        android:pathData="M38.5,60 C40,51.5 45.5,46.2 52.5,45.2"
+        android:strokeWidth="2.2"
+        android:strokeColor="#40C85527"
+        android:strokeLineCap="round" />
+
+    <!-- Servis Tabağı -->
+    <path
+        android:fillColor="#FFFFF8F2"
+        android:pathData="M30,66.5 H78 A2,2 0 0,1 78,70.5 H30 A2,2 0 0,1 30,66.5 Z" />
+
+    <!-- Tabak Altı Altın Çizgi -->
+    <path
+        android:fillColor="#FFFFD08A"
+        android:pathData="M40.1,72.3 H67.9 A1.1,1.1 0 0,1 67.9,74.5 H40.1 A1.1,1.1 0 0,1 40.1,72.3 Z" />
+
+    <!-- Büyük Yapay Zeka Kıvılcımı (Sağ Üst) -->
+    <path
+        android:fillColor="#FFFFD08A"
+        android:pathData="M72,29.5 Q72.8,35.2 78.5,36 Q72.8,36.8 72,42.5 Q71.2,36.8 65.5,36 Q71.2,35.2 72,29.5 Z" />
+
+    <!-- Küçük Kıvılcım (Sol Üst) -->
+    <path
+        android:fillColor="#E0FFD08A"
+        android:pathData="M36,33.5 Q36.4,36.6 39.5,37 Q36.4,37.4 36,40.5 Q35.6,37.4 32.5,37 Q35.6,36.6 36,33.5 Z" />
+</vector>
